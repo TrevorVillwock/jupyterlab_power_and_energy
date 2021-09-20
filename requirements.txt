@@ -1,0 +1,5 @@
+jupyter_packaging==0.10.5
+numpy==1.20.3
+requests==2.25.0
+ipython==7.27.0
+tensorflow==2.6.0

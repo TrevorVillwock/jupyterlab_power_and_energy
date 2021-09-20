@@ -1,0 +1,7 @@
+{
+  "NotebookApp": {
+    "nbserver_extensions": {
+      "jupyterlab_power_and_energy": true
+    }
+  }
+}
