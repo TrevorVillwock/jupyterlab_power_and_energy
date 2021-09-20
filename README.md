@@ -4,7 +4,7 @@ This JupyterLab extension adds a button to the notebook toolbar that allows user
 
 ## Installing Python dependencies
 
-To create a conda environment with all the required dependencies, first check that either Miniconda or Anaconda is installed; if not, follow the directions at [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html) (Miniconda) or [here](https://docs.anaconda.com/anaconda/install/index.html) (Anaconda). Especially if you use Anaconda, you may need to modify the path in the "prefix" field at the bottom of the jupyter_lab_ext/environment.yml file. Then navigate to the jupyter_lab_ext folder and run `conda env create -f environment.yml` and `conda activate greencode` to install the dependencies. The extension requires Python 3.9.5.
+To create a conda environment with all the required dependencies, first check that either Miniconda or Anaconda is installed; if not, follow the directions at [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html) (Miniconda) or [here](https://docs.anaconda.com/anaconda/install/index.html) (Anaconda). Especially if you use Anaconda, you may need to modify the path in the "prefix" field at the bottom of the environment.yml file. Then navigate to the root folder of the project and run `conda env create -f environment.yml` and `conda activate greencode` to install the dependencies. The extension requires Python 3.9.5.
 
 ## Installing Node Dependencies
 
